@@ -1,0 +1,39 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Avenir Next", helvetica, arial, sans-serif;
+  margin: 2em;
+  color:white;
+  background-color:black;
+}
+
+h1 {
+  color: #373fff;
+}
+
+#amogh {
+  width: 150px;
+  padding-rights: 90%;
+}
+
+
+a {
+  color: hotpink;
+}
+
+.me {
+  text-align: center;
+}
+
+.columns {
+  column-count: 2;
+  column-gap: 2rem;
+}
+
+.left-side {
+  padding-left: 20%;
+}
+
+.right-side {
+  padding-right: 20%;
+}
